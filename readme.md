@@ -12,5 +12,5 @@ I'm currently a game developer and open source contributor on [Airship](https://
 </a>
 
 <a href="https://airship.gg/g/384d911c-a5e8-4fda-be18-f715e8b2f116" target="_blank">
-    <img width=185 src="https://cdn.airship.gg/images/default-icon">
+    <img width=240 src="https://cdn.airship.gg/images/63dfafd7-26ea-4a80-8b11-4d346571a1a0">
 </a>
