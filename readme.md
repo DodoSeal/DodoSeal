@@ -1,23 +1,19 @@
 # Hey, I'm DodoSeal! 👋
-Self-taught Developer and Lighting Designer
+Self-taught **Developer** and **Lighting Designer**
 
-*(Airship has been closed as it switches the core engine to Godot)*
-~~I'm currently a game developer and open source contributor on [Airship](https://airship.gg), a multiplayer platform built for Unity. I have released two games, Conveyor Chaos and Walk to Win, with two more in development!~~
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=37066&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6)
 
-## ~~Released~~
-<a href="https://airship.gg/g/conveyor" target="_blank">
-  <img width=250 src="https://cdn.airship.gg/images/9d149b5a-f225-442c-bf5f-d94183b11465">
-</a>
+# HackClub Projects
+## [LPlot](https://GitHub.com/DodoSeal/LPlot) - A Plot Manager for Lighting Designers
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![LPlot - Hackatime Tracker](https://hackatime.hackclub.com/api/v1/badge/U0B7SE5AGTU/DodoSeal/LPlot)
 
-<a href="https://airship.gg/g/ce82baa1-fe3b-4665-9d3b-36fd66ee9471" target="_blank">
-  <img width=250 src="https://cdn.airship.gg/images/2355ce3c-aac2-4d81-9ad3-5dbb985daaaf">
-</a>
-
-## ~~In Development~~
-<a href="https://airship.gg/g/af4bf6a1-1f6f-413e-bc8d-f7c9c5bcb050" target="_blank">
-  <img width=240 src="https://cdn.airship.gg/images/28ef3377-7534-488c-8b3a-dcdbe336e093">
-</a>
-
-<a href="https://airship.gg/g/384d911c-a5e8-4fda-be18-f715e8b2f116" target="_blank">
-    <img width=240 src="https://cdn.airship.gg/images/060a8004-2a39-407b-80fb-2befca6be59d">
-</a>
+## [Airship CLI](https://GitHub.com/Soarin-Games/Airship-CLI) - Interact with the Airship.gg API from your Terminal
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Airship CLI - Hackatime Tracker](https://hackatime.hackclub.com/api/v1/badge/U0B7SE5AGTU/Soarin-Games/airship-cli)
+[![NPM Package](https://badge.fury.io/js/airship-cli.svg)](https://www.npmjs.com/package/airship-cli)
